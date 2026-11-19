@@ -1,3 +1,5 @@
+<img src="./lake.svg" width="100%" alt="Kayzel. I make games and editor tools in Unity." />
+
 <div id="stats" align="center">
  <picture>
  <source
